@@ -1,1 +1,8 @@
-
+[Desktop Entry]
+Type=Application
+Name=pictureFrame.sh
+Comment=Start pictureFrame
+NoDisplay=false
+Exec=/home/pi/pictureFrame/pictureFrame.sh >> /home/pi/pictureFrame/pictureFrame.log 2>&1
+NotShowIn=GNOME;KDE;XFCE;
+Name[en_US]=pictureFrame.sh
